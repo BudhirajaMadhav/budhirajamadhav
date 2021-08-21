@@ -39,7 +39,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Kotlin and DevOps
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I 
+- ⚡️ Fun-Fact: I overthink this much, that if you're watching my profile right now, odds are that I might've seen you seeing me in my imagination already.
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:madhavbudhiraja131@gmail.com)
 
 
