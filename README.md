@@ -75,7 +75,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/budhirajamadhav/count.svg" />
+</p>
 ---
 
 <!-- This readme was created by Madhav Budhiraja - https://github.com/budhirajamadhav -->
