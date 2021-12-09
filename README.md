@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📚 I'm a sophomore pursuing bachelor’s degree in Information Technology. </br>
 - 👨🏽‍💻 I'm currently working on Backend projects and playing with Open-Source DevOps tools.
-- 🌱 My interests include Backend Development, Android Development, DevOps.
+- 🌱 My interests include Backend Development, Android Development, and DevOps.
 - 🤝 I'm an open source enthusiast and passionately contribute to it. 
 - ❤️‍🔥 I'm passionate about software development and I have a zeal for learning new tech stuff.
 
