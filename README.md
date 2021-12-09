@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-## Hi, I'm Madhav Budhiraja, a Developer 🚀 from India.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Madhav Budhiraja, a Developer 🚀 from India.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -27,20 +27,18 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:madhavbudhiraja131@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBudhirajaMadhav)](https://twitter.com/BudhirajaMadhav)
 
-&nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+## A bit about me 🙋‍♂️
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [LitMemes](https://github.com/budhirajamadhav/LitMemes/);
-- 🌱 I’m currently learning Kotlin and DevOps
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I overthink this much, that if you're watching my profile right now, odds are that I might've seen you seeing me in my imagination already.
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:madhavbudhiraja131@gmail.com)
+- 📚 I'm a sophomore pursuing bachelor’s degree in Information Technology. </br>
+- 👨🏽‍💻 I'm currently working on Backend projects and playing with Open-Source DevOps tools.
+- 🌱 My interests include Backend Development, Android Development, DevOps.
+- 🤝 I'm an open source enthusiast and passionately contribute to it. 
+- I'm passionate about software development and I have a zeal for learning new tech stuff.
 
 
 **Languages and Tools:** 
