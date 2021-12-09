@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=budhirajamadhav&theme=react&show_icons=true&hide=stars&count_private=true" />
-  <img height="170" src ="http://github-readme-streak-stats.herokuapp.com?user=budhirajamadhav&theme=react" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=budhirajamadhav&theme=react&show_icons=true&hide=stars&count_private=true" />
+  <img height="150" src ="http://github-readme-streak-stats.herokuapp.com?user=budhirajamadhav&theme=react" />
 </p>
 
 <br />
