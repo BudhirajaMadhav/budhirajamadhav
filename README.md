@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-# Hi, I'm Madhav Budhiraja, a Developer 🚀 from India.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Madhav Budhiraja, a Developer 🚀 from India.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">
 
 <!-- Talking about you -->
 ## A bit about me 🙋‍♂️
