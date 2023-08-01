@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 📚 I'm a sophomore pursuing bachelor’s degree in Information Technology. </br>
+- 📚 I'm a senior pursuing bachelor’s degree in Information Technology. </br>
 - 👨🏽‍💻 I'm currently working on Backend projects and playing with Open-Source DevOps tools.
 - 🌱 My interests include Backend Development, Android Development, and DevOps.
 - 🤝 I'm an open source enthusiast and passionately contribute to it. 
